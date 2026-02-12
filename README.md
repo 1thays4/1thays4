@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Olá, eu sou Thays
 
-<!--
-**1thays4/1thays4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer com foco em Angular moderno, arquitetura limpa e integração com APIs externas.
 
-Here are some ideas to get you started:
+🔹 Angular 20  
+🔹 PrimeNG  
+🔹 RxJS  
+🔹 Clean Code  
+🔹 Arquitetura organizada  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em destaque
+
+- 🧠 User Management System (Angular 20 + ViaCEP)
+- 🤖 Automação com IA
+- 📊 Aplicações orientadas a dados
+
+Sempre buscando código limpo, organizado e escalável.
