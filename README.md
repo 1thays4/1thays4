@@ -24,6 +24,21 @@ Frontend Developer com foco em Angular moderno, arquitetura limpa e boas prátic
 
 ---
 
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrimeNG-00ACC1?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white" />
+</p>
+
+---
+
 ## 🚀 Projetos em destaque
 
 ### [User Management System](https://github.com/1thays4/user-management-angular)
@@ -31,15 +46,6 @@ Sistema CRUD completo com Angular 20 + PrimeNG.
 Integração com ViaCEP, Reactive Forms, Guards e testes unitários.
 
 `Angular 20` `PrimeNG` `RxJS` `TypeScript` `Jasmine`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=1thays4&show_icons=true&theme=default&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1thays4&layout=compact&hide_border=true" />
-</p>
 
 ---
 
