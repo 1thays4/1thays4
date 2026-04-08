@@ -1,45 +1,60 @@
-<h1 align="center">Olá, eu sou Thays Vasconcelos 👋</h1>
+# 👋 Olá, eu sou a Thays!
 
-<p align="center">
-  Frontend Developer · Angular · TypeScript · RxJS · PrimeNG
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-20-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/RxJS-7-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/PrimeNG-20-00ACC1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" />
-</p>
+💻 **Desenvolvedora Full Stack** com mais de 3 anos de experiência em Angular, TypeScript e APIs REST.  
+📍 Blumenau - SC | 🚀 Em busca de novas oportunidades
 
 ---
 
-## Sobre mim
+## 🛠️ Tecnologias e Ferramentas
 
-Frontend Developer com foco em Angular moderno, arquitetura limpa e boas práticas de desenvolvimento.
+**Frontend:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-- 🔹 +3 anos de experiência com Angular, TypeScript e RxJS
-- 🔹 Background em QA: entrego código pensando em qualidade
-- 🔹 Aprofundando conhecimentos em IA e automação
-- 📍 Blumenau, SC
+**Backend & Banco:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Ferramentas:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
-## 🚀 Projetos em destaque
+## 🤖 IA no Desenvolvimento
 
-### [User Management System](https://github.com/1thays4/user-management-angular)
-Sistema CRUD completo com Angular 20 + PrimeNG.
-Integração com ViaCEP, Reactive Forms, Guards e testes unitários.
-
-`Angular 20` `PrimeNG` `RxJS` `TypeScript` `Jasmine`
+Uso **GitHub Copilot** diariamente e tenho **5 certificações em IA** (Fundação Bradesco, FGV).  
+Acredito que IA é uma ferramenta para acelerar entregas sem perder qualidade.
 
 ---
 
-## 📫 Contato
+## 📂 Projetos em Destaque
 
-<a href="https://www.linkedin.com/in/thays-costa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [crud-angular](https://github.com/1thays4/crud-angular) | CRUD de usuários em Angular | Angular, TypeScript |
+| [painel-clientes-ia-ts](https://github.com/1thays4/painel-clientes-ia-ts) | Painel de clientes com auxílio de IA | TypeScript, Angular, GitHub Copilot |
+
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thays-costa/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/1thays4)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thayscosta66@gmail.com)
+
+---
+
+## 🎯 Status
+
+🟢 **Open to Work** – Desenvolvedora Full Stack / Frontend Angular  
+📍 Disponível para **remoto** ou **híbrido em Blumenau/SC**
+
+---
+
+⭐ *"Tecnologia com propósito e aprendizado contínuo"*
