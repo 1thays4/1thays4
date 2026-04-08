@@ -37,7 +37,7 @@ Acredito que IA é uma ferramenta para acelerar entregas sem perder qualidade.
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [crud-angular](https://github.com/1thays4/crud-angular) | CRUD de usuários em Angular | Angular, TypeScript |
+| [user-management-angular](https://github.com/1thays4/user-management-angular) | CRUD de usuários em Angular | Angular, TypeScript |
 | [painel-clientes-ia-ts](https://github.com/1thays4/painel-clientes-ia-ts) | Painel de clientes com auxílio de IA | TypeScript, Angular, GitHub Copilot |
 
 ---
